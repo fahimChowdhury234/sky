@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "build": "tailwindcss build src/css/input.css -o src/css/output.css --watch",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    
+
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
